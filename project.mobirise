@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "sp7pab",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -47,7 +47,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/free-logo2-100x100.png",
-    "mbrsiteDomain": "k1gdygfbbp",
+    "mbrsiteDomain": "cssnlmnnrd",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
